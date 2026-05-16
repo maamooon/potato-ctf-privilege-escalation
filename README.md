@@ -7,7 +7,7 @@
 ![Result](https://img.shields.io/badge/Result-Root%20%23-brightgreen)
 ![Status](https://img.shields.io/badge/Flag-Captured-success)
 
-> A full penetration test writeup against the **Potato CTF** virtual machine, completed as part of the **CS4061 Ethical Hacking Concepts and Practices** course at **FAST NUCES, Lahore**. The exercise covers the complete attack lifecycle — from host discovery to root shell and flag capture.
+> A full penetration test writeup against the **Potato CTF** virtual machine. The exercise covers the complete attack lifecycle — from host discovery to root shell and flag capture.
 
 ---
 
@@ -356,4 +356,4 @@ SunCSR.Team.Potato.af6d45da1f1181347b9e2139f23c6a5b
 
 ---
 
-> **Disclaimer:** This exercise was conducted in a fully isolated, controlled VirtualBox lab environment for educational purposes as part of the CS4061 Ethical Hacking Concepts and Practices course at FAST NUCES, Lahore. No real systems were targeted.
+> **Disclaimer:** This exercise was conducted in a fully isolated, controlled VirtualBox lab environment for educational purposes. No real systems were targeted.
